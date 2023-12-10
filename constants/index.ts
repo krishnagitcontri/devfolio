@@ -198,12 +198,12 @@ export const Backend_skill = [
     width: 70,
     height: 70,
   },
-  // {
-  //   skill_name: "Prisma",
-  //   Image: "/prisma.png",
-  //   width: 70,
-  //   height: 70,
-  // },
+  {
+    skill_name: "Prisma",
+    Image: "/prisma.png",
+    width: 70,
+    height: 70,
+  },
   {
     skill_name: "Graphql",
     Image: "/graphql.png",
